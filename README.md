@@ -17,6 +17,7 @@ A comprehensive Flutter application designed to help parents and instructors tra
 - **Progress Monitoring**: Visual progress tracking toward required hours
 - **Session History**: Complete history of all driving sessions per driver
 
+
 ### Data Management
 - **Local Storage**: Secure local data storage using Hive database
 - **Data Persistence**: All data is saved locally on the device
