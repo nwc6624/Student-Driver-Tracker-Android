@@ -12,8 +12,6 @@ A comprehensive Flutter application designed to help parents and instructors tra
 - **Edit Profiles**: Update driver information as needed
 - **Multiple Drivers**: Support for tracking multiple student drivers
 
-
-
 ### Driving Session Tracking
 - **Session Logging**: Record detailed driving sessions with duration, date, and location
 - **Weather Conditions**: Track weather conditions during each session
